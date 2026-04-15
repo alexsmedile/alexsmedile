@@ -1,2 +1,2 @@
-I turn ideas into systems.
-Learning, building, shipping.
+- I turn ideas into systems.
+- Learning, building, shipping.
